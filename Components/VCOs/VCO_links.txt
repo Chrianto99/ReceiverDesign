@@ -1,0 +1,2 @@
+VCO1: https://www.everythingrf.com/products/voltage-controlled-oscillators-vco/mini-circuits/150-12-ros-3000-819
+VCO2: https://www.everythingrf.com/products/voltage-controlled-oscillators-vco/crystek-corporation/150-917-cvco55flm-0137-0171

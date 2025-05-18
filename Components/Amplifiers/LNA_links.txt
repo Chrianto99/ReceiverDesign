@@ -1,0 +1,2 @@
+LNA: https://www.everythingrf.com/products/microwave-rf-amplifiers/mini-circuits/567-12-zx60-3800ln
+LNA2: https://www.everythingrf.com/products/microwave-rf-amplifiers/macom-technology-solutions/567-122-xf1001-sc

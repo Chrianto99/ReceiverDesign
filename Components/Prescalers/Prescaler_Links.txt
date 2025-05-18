@@ -1,0 +1,3 @@
+divider_16: https://www.everythingrf.com/products/prescalers/fairview-microwave/127-15-fmfd16000
+divider_25: https://www.everythingrf.com/products/prescalers/hd-communications-corp/127-1905-hd26127
+programmable: https://www.everythingrf.com/products/prescalers/analog-devices/127-29-hmc705

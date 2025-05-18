@@ -1,0 +1,3 @@
+BPF1: https://www.everythingrf.com/products/rf-band-pass-filters/talent-microwave-inc/521-1589-tlbf-3g5-200m-e
+BPF2: https://www.everythingrf.com/products/rf-band-pass-filters/qorvo/521-483-856866
+LPF: https://www.everythingrf.com/products/low-pass-filters/networks-international-corporation/525-334-dc-1600-mhz-absorptive-lowpass-filter
